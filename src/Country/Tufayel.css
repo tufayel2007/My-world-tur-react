@@ -1,0 +1,17 @@
+.country {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.country-visited {
+  background-color: green;
+}
+.text {
+  color: gold;
+}
+.my-text {
+  border: solid;
+  padding: 30px;
+  border-color: brown;
+}
